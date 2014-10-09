@@ -1,3 +1,3 @@
 Just some placeholder text in here.
-// v2
+// readme2.txt
 // MG: 2014-10-09
